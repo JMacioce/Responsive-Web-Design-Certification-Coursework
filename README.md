@@ -2,4 +2,4 @@
 Projects included are completed for self-learning
 
 Project 1 - Learning HTML <br>
-  Building a Snorlax Photo App with pure HTML
+&emspBuilding a Snorlax Photo App with pure HTML
