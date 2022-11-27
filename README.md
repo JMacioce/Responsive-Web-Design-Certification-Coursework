@@ -1,2 +1,5 @@
 # Coursework from freeCodeCamp's Responsive Web Design Certification
-Projects included are finished projects completed for self-learning
+Projects included are completed for self-learning
+
+Project 1 - Learning HTML
+  Building a Snorlax Photo App with pure HTML
