@@ -5,6 +5,6 @@
 &emsp;Building a Snorlax Photo App with HTML
 
 <p float="left">
-  <img src="Images/Project1-1.png" width = 200/>
-  <img src="Images/Project1-2.png" width = 200/>
+  <img src="Images/Project1-1.png" width = 200, height = 400/>
+  <img src="Images/Project1-2.png" width = 200, height = 400/>
  </p>
