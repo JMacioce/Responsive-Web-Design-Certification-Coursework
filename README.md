@@ -5,3 +5,4 @@
 &emsp;Building a Snorlax Photo App with HTML
 
 ![My Image](Images/Project1-1.png)
+![My Image](Images/Project1-2.png)
